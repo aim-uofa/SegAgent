@@ -16,7 +16,7 @@ Ming Yang<sup>2</sup>, &nbsp;
 
 **CVPR2025**
 
-[📄 **Paper**](https://arxiv.org/abs/2503.08625)
+[📄 **Paper**](https://arxiv.org/abs/2503.08625)&nbsp; | &nbsp;[🌐 **Project Page**](https://aim-uofa.github.io/SegAgent/)
 </div>
 
 ## 🚀 Overview
